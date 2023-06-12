@@ -24,7 +24,7 @@ Get it from [here](https://www.python.org/downloads/release/python-3106/).
 1. Download the repo with a simple git request.
 
 ```bash
-  git clone https://github.com/IM2LO/FaceExtractor/
+  git clone https://github.com/IM2LO/FaceExtractor.git
 ```
 2. Then enter the downloaded folder, create a ***videos*** folder among the scripts (don't forget the **s**).
 
