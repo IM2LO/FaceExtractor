@@ -1,0 +1,8 @@
+# Image capture interval (frames)
+interval = 10
+
+# Margin around face (px)
+margin = 50
+
+# Croped images size (px)
+size = 512
