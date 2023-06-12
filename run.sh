@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 python config_displayer.py
 python shredder.py
 python pics_naming_results.py
